@@ -1,5 +1,7 @@
-# hack_pr_team2
-Repositorio con links a los repositorios del Team 2 - Ciclo 7
+# hack-pull-request-1
+## Links a los repositorios del Team 2 - Ciclo 7
+
+hack-pull-request-1 - https://github.com/SocialOplesk/hack-pull-request-1 
 
 | Hacks | Details |
 | :---: | :--- |
